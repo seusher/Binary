@@ -1,5 +1,7 @@
 # Binary Addition
 
+[![.NET](https://github.com/seusher/Binary/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/seusher/Binary/actions/workflows/dotnet.yml)
+
 ## Truth Table
 
 `Cin` = carry in  
